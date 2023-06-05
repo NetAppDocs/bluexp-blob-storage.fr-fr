@@ -1,0 +1,16 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+lead: Get started using Azure Blob storage with your BlueXP system. 
+summary: Commencez à utiliser le stockage Azure Blob avec votre système BlueXP. 
+---
+= Documentation sur le stockage Azure Blob
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

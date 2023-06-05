@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, limitations, known issues, enhancements, fixes' 
+summary: Découvrez les nouveautés du stockage Azure Blob dans BlueXP. 
+---
+= Nouveautés du stockage Azure Blob dans BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Découvrez les nouveautés du stockage Azure Blob dans BlueXP.
+
+
+
+== 5 juin 2023
+
+
+
+=== Possibilité d'ajouter de nouveaux comptes de stockage à partir de BlueXP
+
+Vous avez pu afficher Azure Blob Storage sur BlueXP Canvas pendant un certain temps. Vous pouvez désormais ajouter de nouveaux comptes de stockage et modifier les propriétés de comptes de stockage existants directement à partir de BlueXP. https://docs.netapp.com/us-en/bluexp-blob-storage/task-add-blob-storage.html["Découvrez comment ajouter de nouveaux comptes de stockage Azure Blob"^].

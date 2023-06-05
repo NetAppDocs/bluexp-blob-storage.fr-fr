@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: task-view-azure-blob-storage.html 
+keywords: blob storage, blob working environment, azure blob storage accounts, azure blob working environment 
+summary: 'Une fois que vous avez installé un connecteur dans Azure, BlueXP peut détecter automatiquement des informations sur les comptes de stockage Azure qui résident dans les abonnements Azure où le connecteur est installé. Un environnement de travail Azure Blob est ajouté à Canvas pour vous permettre d"afficher ces informations.' 
+---
+= Afficher vos comptes de stockage Azure Blob
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Une fois que vous avez installé un connecteur dans Azure, BlueXP peut détecter automatiquement des informations sur les comptes de stockage Azure qui résident dans les abonnements Azure où le connecteur est installé. Un environnement de travail Azure Blob est ajouté à Canvas pour vous permettre d'afficher ces informations.
+
+Vous pouvez afficher des informations détaillées sur vos comptes de stockage Azure, notamment l'emplacement, le groupe de ressources, la capacité utilisée et bien plus encore. Ces comptes peuvent être utilisés comme destinations pour la sauvegarde et la restauration BlueXP, le Tiering BlueXP ou les opérations de copie et de synchronisation BlueXP.
+
+.Étapes
+. https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-connector-azure.html["Installer un connecteur"^] Sur le compte Azure où vous souhaitez afficher vos comptes de stockage Azure Blob.
+. Dans le menu de navigation, sélectionnez *stockage > Canvas*.
++
+Vous devriez voir automatiquement un environnement de travail Azure Blob Storage peu de temps après.
+
++
+image:screenshot-azure-blob-we.png["Copie d'écran d'un environnement de travail Azure Blob Storage."]
+
+. Sélectionnez l'environnement de travail et sélectionnez une action dans le volet de droite si vous souhaitez activer les services BlueXP avec votre stockage Azure Blob.
++
+image:screenshot-azure-blob-actions.png["Capture d'écran affichant le volet actions après la sélection d'un environnement de travail Azure Blob Storage. Le volet affiche le nombre total de comptes de stockage et une action pour l'utilisation des services BlueXP."]
+
++
+link:task-blob-enable-data-services.html["Découvrez les services BlueXP disponibles et apprenez à les utiliser avec vos comptes Azure Blob Storage"].
+
+. Sélectionnez *entrer l'environnement de travail* ou double-cliquez sur l'environnement de travail pour afficher des détails sur les comptes de stockage Azure.
++
+image:screenshot-azure-blob-details.png["Copie d'écran affichant les détails d'un environnement de travail Azure Blob : le nombre total de comptes de stockage, le nombre total d'emplacements, de groupes de ressources, la capacité totale, etc."]
+
++
+Outre les colonnes qui apparaissent par défaut, vous pouvez faire défiler la page pour afficher des propriétés supplémentaires pour le compte de stockage, par exemple le nombre de balises et le type de cryptage activé.
+
+
+
+.Et la suite
+Vous pouvez modifier certains paramètres de compte de stockage directement à partir de BlueXP en cliquant sur image:button-horizontal-more.gif["le bouton trois points plus"] pour un compte de stockage. link:task-change-blob-storage-settings.html["Cliquez ici pour plus d'informations"].
+
+Vous pouvez ajouter de nouveaux compartiments en cliquant sur *Ajouter un compte de stockage*. link:task-add-blob-storage.html["Cliquez ici pour plus d'informations"].
