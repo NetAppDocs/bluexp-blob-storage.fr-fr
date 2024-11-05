@@ -123,7 +123,6 @@
   <block id="3bec690d07df1a3a36c8a3122654fc24" category="section-title">5 juin 2023</block>
   <block id="f9037e3eb23130835367334e3aa5a34b" category="section-title">Possibilité d'ajouter de nouveaux comptes de stockage à partir de BlueXP</block>
   <block id="a39e8d6ee8bc43ef75656b419fe7a86e" category="inline-link">Découvrez comment ajouter de nouveaux comptes de stockage Azure Blob</block>
-  <block id="34738f8a469a7971575b53ff1435539f" category="paragraph">Vous avez pu afficher Azure Blob Storage sur BlueXP Canvas pendant un certain temps. Vous pouvez désormais ajouter de nouveaux comptes de stockage et modifier les propriétés de comptes de stockage existants directement à partir de BlueXP.<block ref="7f415337c5df45cbb7bfeb019667a476" category="inline-link-rx"></block>.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Avant d'ouvrir un dossier de demande de support auprès du support technique NetApp, vous devez ajouter un compte sur le site de support NetApp à BlueXP, puis vous inscrire pour bénéficier du support.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">S'inscrire pour obtenir de l'aide</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Présentation de l'inscription au support</block>
@@ -308,4 +307,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">L'association des informations d'identification du site de support NetApp à votre organisation BlueXP  est nécessaire pour activer les flux de travail clés suivants pour Cloud Volumes ONTAP :</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'association des informations d'identification NSS à votre organisation BlueXP  est différente du compte NSS associé à une connexion utilisateur BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Ces informations d'identification NSS sont associées à votre identifiant d'organisation BlueXP  spécifique. Les utilisateurs qui appartiennent à l'organisation BlueXP  peuvent accéder à ces informations d'identification à partir de *support &gt; gestion NSS*.</block>
+  <block id="3e9d2d36df8c91d7e9151cc5775042a8" category="paragraph">Vous avez pu afficher Azure Blob Storage sur BlueXP Canvas pendant un certain temps. Vous pouvez désormais ajouter de nouveaux comptes de stockage et modifier les propriétés des comptes de stockage existants directement à partir de BlueXP .<block ref="432ae671c636de993f8b5290b51ad53f" category="inline-link-rx"></block>.</block>
 </blocks>
