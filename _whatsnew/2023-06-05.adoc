@@ -1,5 +1,7 @@
 = Possibilité d'ajouter de nouveaux comptes de stockage à partir de BlueXP
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
 
